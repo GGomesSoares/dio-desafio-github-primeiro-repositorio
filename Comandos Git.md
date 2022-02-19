@@ -17,3 +17,7 @@ git commit -a -m "descriçaõ curta" : commitar o código//guardar dentro do rep
 git status : verificação se o repositório está atualizado ou se temos arquivos que não foram atualizados ou/e modificados.
 
 git log : mostra infos do commit como por exemplo o código hash.
+
+git push : enviar o commit para o github.
+
+git pull : fazer download de outros repositórios do github para o meu pc. 
