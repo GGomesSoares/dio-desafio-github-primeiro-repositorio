@@ -14,7 +14,7 @@ git init : criar novo repositório
 
 git add --all : adicionar os arquivos na área de staging
 
-git commit -a -m "descriçaõ curta" : commitar o código//guardar dentro do repositório os arquivos 
+git commit -m "descriçaõ curta" : commitar o código//guardar dentro do repositório os arquivos 
 
 git status : verificação se o repositório está atualizado ou se temos arquivos que não foram atualizados ou/e modificados.
 
